@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "7.2",
+  "versionCode": 19,
+  "versionName": "7.3",
   "forceUpdate": true,
-  "apkUrl": "https://github.com/loveaisamim-web/OSEarning-Updates/releases/download/v7.2-b18/OS-Earning-latest.apk",
+  "apkUrl": "https://github.com/loveaisamim-web/OSEarning-Updates/releases/download/v7.3-b19/OS-Earning-latest.apk",
   "changelog": "New server upgrades, stability improvements & mandatory security patch."
 }
