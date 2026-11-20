@@ -1,0 +1,7 @@
+{
+  "versionCode": 6,
+  "versionName": "6.0",
+  "forceUpdate": true,
+  "apkUrl": "https://github.com/loveaisamim-web/OSEarning-Updates/releases/download/v6.0-b6/OS-Earning-latest.apk",
+  "changelog": "New server upgrades, stability improvements & mandatory security patch."
+}
