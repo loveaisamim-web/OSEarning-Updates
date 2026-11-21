@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "8.5",
+  "versionCode": 30,
+  "versionName": "8.6",
   "forceUpdate": true,
-  "apkUrl": "https://github.com/loveaisamim-web/OSEarning-Updates/releases/download/v8.5-b29/OS-Earning-latest.apk",
+  "apkUrl": "https://github.com/loveaisamim-web/OSEarning-Updates/releases/download/v8.6-b30/OS-Earning-latest.apk",
   "changelog": "New server upgrades, stability improvements & mandatory security patch."
 }
